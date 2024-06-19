@@ -7,3 +7,5 @@ xhofe/alist:latest
 xiaoyaliu/alist
 ubuntu
 xiaoyaliu/alist:hostmode
+xiaoyakeeper
+watchtower
